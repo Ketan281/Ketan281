@@ -24,7 +24,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Ketan Mohite a <b>final year</b> post graduate from <a href="https://uom.lk/"> <b>JSPM RSCOE pune</b>, India (" Wisdom is all wealth ")</a>. <br>
+    Hello, I am Ketan Mohite a <b>final year</b> post graduate from <a href="https://uom.lk/"></a> <b>JSPM RSCOE pune</b>, India (" Wisdom is all wealth ") & pursuing full stack web developement from Masai School Banglore India. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Developer</b>&nbsp;<img src="https://github.com/" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
@@ -36,12 +36,12 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-🏫 Aspiring full stack web developer, learning MERN stack at Masai School.
-👩‍💻 Hands-on practice of solving more than 100DSA problems.
-💻 I am a passionate frontend web developer, like to work on more challenging websites.
-👩‍🎓 I’m currently pursuing BTech in Information Technology
-😃 I’m currently open for: a new job opportunity.
-🤓 Always learning new things
+🏫 Aspiring full stack web developer, learning MERN stack at Masai School.<br/>
+👩‍💻 Hands-on practice of solving more than 100DSA problems.<br/>
+💻 I am a passionate frontend web developer, like to work on more challenging websites.<br/>
+👩‍🎓 I’m currently pursuing BTech in Information Technology<br/>
+😃 I’m currently open for: a new job opportunity.<br/>
+🤓 Always learning new things<br/>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
