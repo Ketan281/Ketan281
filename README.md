@@ -41,7 +41,7 @@
 💻 I am a passionate frontend web developer, who likes to work on more challenging websites.<br/>
 😃 I’m currently open for: a new job opportunity.<br/>
 🤓 Always learning new things<br/>
-✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎<br><br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it is stored in the brain* 😎<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
@@ -51,7 +51,7 @@
 
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-official.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
 
 
