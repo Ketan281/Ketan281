@@ -25,7 +25,7 @@
 <p align="center">
   <em>
     Hello, I am Ketan Mohite a <b>Software Engineer</b> postgraduate from <a href="https://uom.lk/"></a> <b>JSPM RSCOE pune</b>, India (" Wisdom is all wealth ") & pursued full stack web development from Masai School Banglore India. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Developer</b>&nbsp;<img src="https://github.com/" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Developer</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with <b>Frontend Engineering SKills</b> and always looking to find patterns which are hidden in the data 
   </em> 
   <br>
