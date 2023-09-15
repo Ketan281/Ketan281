@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <p align="center">
-  <img src="https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp" height="200"/>
+  <img src="https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp" height="200" width="500"/>
 </p>
 <br>
 
